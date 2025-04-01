@@ -14,7 +14,7 @@ echo 1) List Of Users In The System
 echo 2) Create A New User
 echo 3) Change A User's Password
 echo 4) Delete A User
-echo 5) Exit Luyun's CyberMultiTool
+echo 5) Exit hoolio's CyberMultiTool
 echo.
 set /p input="| © Made By hoolio2002 | Made In 09/03/2025 | Enter Your Choice: "
 
